@@ -1,4 +1,3 @@
-<br/>
 
 #### ~ Since my 15's typing hello worlds and using dark themes 👩‍💻  
 <br/>
