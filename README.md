@@ -1,18 +1,25 @@
-### Hi there 👋
+<br/>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+####~ Since my 15's typing hello worlds and using dark themes 👩‍💻  
+<br/>
 
-<!--
-**sheory/sheory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>
+    <img width="250" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+</center>
 
-Here are some ideas to get you started:
+<hr/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻⚡ Stack    
+<br /> <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center>
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-f8ff12?logo=JavaScript&logoColor=black&link=https://www.ecma-international.org/)](https://www.ecma-international.org/)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&link=https://reactjs.org/)](https://reactjs.org/)
+[![React Native](https://img.shields.io/badge/-React_Native-4B8BF5?logo=Android&logoColor=white&link=https://reactnative.dev/)](https://reactnative.dev/)
+
+[![Python](https://img.shields.io/badge/-Python-f8ff12?logo=Python&logoColor=blue&link=https://www.python.org/)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/-Flask-000?logo=Flask&logoColor=white&link=https://flask.palletsprojects.com/en/2.0.x/)](https://flask.palletsprojects.com/en/2.0.x//)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&logoColor=white&link=https://www.postgresql.org/)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/-MySQL-f89a12?logo=Mysql&logoColor=white&link=https://www.postgresql.org/)](https://www.mysql.com/)
+
+</center>
