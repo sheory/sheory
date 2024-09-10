@@ -1,7 +1,7 @@
 
 **About Me**
 
-Hello! 👋 I’m Sheory Machado Martins, a Software Engineer skilled in backend and frontend development with Python, Flask, FastAPI, and React.js.
+Hello! 👋 I’m Sheory, a Software Engineer skilled in backend and frontend development with Python, Flask, FastAPI, and React.js.
 
 👩‍💻 I'm currently a Mid Level Developer at [Zenvia](https://github.com/zenvia).
 
