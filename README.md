@@ -1,9 +1,7 @@
 
 **About Me**
 
-Hello! 👋 I’m Sheory Machado Martins, a Software Engineer with solid experience in both backend and frontend development, particularly with Python, Flask, FastAPI, and React.js. My journey includes maintaining and optimizing critical systems, such as those for credit and loan management, and leading refactoring initiatives to enhance system performance and scalability. Currently, I work at Zenvia, where I continue to hone my skills and develop robust and efficient solutions. In addition to my practical development experience, I have also served as an academic teaching assistant, instructing students on basic IT concepts and advanced data structures.
-
-I am currently expanding my expertise into the field of data science, which is a growing passion and an area I plan to pursue in the future. I am diving into data analysis, visualization, and predictive modeling to integrate these new skills with my software engineering background. My goal is to keep evolving technically and apply my expertise to innovative projects that deliver significant value. I believe in the importance of sharing knowledge and collaborating with other professionals to achieve success in our technological journeys.
+Hello! 👋 I’m Sheory Machado Martins, a Software Engineer skilled in backend and frontend development with Python, Flask, FastAPI, and React.js. At Zenvia, I enhance system performance and lead refactoring initiatives. I’m also delving into data science, focusing on data analysis and predictive modeling. My goal is to continuously evolve and apply my skills to impactful projects, while sharing knowledge and collaborating with others.
  
 <br/>
 
