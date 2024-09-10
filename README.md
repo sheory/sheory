@@ -9,19 +9,15 @@ Hello! 👋 I’m Sheory Machado Martins, a Software Engineer skilled in backend
  
 <br/>
 
-<center>
-    <img width="250" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-</center>
-
 <hr/>
 💻⚡ Stack    
 <br /> <br/>
 
 <center>
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-f8ff12?logo=JavaScript&logoColor=black&link=https://www.ecma-international.org/)](https://www.ecma-international.org/)
 [![Python](https://img.shields.io/badge/-Python-f8ff12?logo=Python&logoColor=blue&link=https://www.python.org/)](https://www.python.org/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&logoColor=white&link=https://www.postgresql.org/)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/-MySQL-f89a12?logo=Mysql&logoColor=white&link=https://www.postgresql.org/)](https://www.mysql.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 
 </center>
