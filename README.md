@@ -3,7 +3,7 @@
 
 Hello! 👋 I’m Sheory, a Software Engineer skilled in backend development with Python, Flask, FastAPI and Django.
 
-👩‍💻 I'm currently a Mid Level Developer at [Zenvia](https://github.com/zenvia).
+👩‍💻 I'm currently a Mid Level Developer.
 
 📊 I’m also delving into data science, focusing on data analysis and predictive modeling.
 <br/>
